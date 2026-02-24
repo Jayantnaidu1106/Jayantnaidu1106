@@ -25,8 +25,7 @@ Obsessed with growth and clean engineering.
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Jayantnaidu1106/Pre_pal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jayantnaidu1106&repo=Pre_pal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Jayantnaidu1106/SafeType " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jayantnaidu1106&repo=SafeType &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Jayantnaidu1106/Pre_pal" align="left"><img align="left" width="45%" src="https://cdn.vectorstock.com/i/500p/43/98/student-learning-logo-vector-14724398.jpg" /></a><a href="https://github.com/Jayantnaidu1106/SafeType " align="right"><img align="right" width="45%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YmhoPlAFUOHiguI6Y9ttzm2VremtAfOYBw&s" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Jayantnaidu1106/Ai_crop_yield_prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jayantnaidu1106&repo=Ai_crop_yield_prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
